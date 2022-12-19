@@ -1,2 +1,2 @@
 # coursera_git
-Coursera kursu github özetini içermektedir
+-Coursera kursu github özetini içermektedir.
